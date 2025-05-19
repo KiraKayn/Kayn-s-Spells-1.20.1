@@ -152,6 +152,7 @@ dependencies {
 
     // Dark Doppelganger
     implementation fg.deobf("curse.maven:dark-doppelganger-1110803:6536265")
+
     // IRONS SPELLS N SPELLBOOKS
     implementation fg.deobf("io.redspace.ironsspellbooks: irons_spellbooks: ${minecraft_version}-${irons_spells_version}")
     // GECKOLIB
