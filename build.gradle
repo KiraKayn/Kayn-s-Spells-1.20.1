@@ -155,7 +155,7 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
 
     // Dark Doppelganger
-    implementation fg.deobf("curse.maven:dark-doppelganger-1110803:6536265")
+    implementation fg.deobf("curse.maven:dark-doppelganger-1110803:6543872")
 
     // IRONS SPELLS N SPELLBOOKS
     implementation fg.deobf("io.redspace.ironsspellbooks:irons_spellbooks:${irons_spells_version}")
